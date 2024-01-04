@@ -8,55 +8,55 @@ tags:
 
 ![Logo del CHT](img/logo.jpg)
 
-La **Coffee Hispanic Showdown** (***CHS***) fue un torneo de osu! de doble-eliminación, 2v2 hosteado por ::{ flag=MX }:: [Atsuro](https://osu.ppy.sh/users/2279351) y ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048). El torneo Fue restringido unicamente para paises hispanohablantes. Esta fue la primera entrega del Coffee Hispanic Showdown y parte de la serie Coffee Hispanic.
+El **Coffee Hispanic Showdown** (***CHS***) fue un torneo de osu! 2 contra 2 de doble eliminación organizado por ::{ flag=MX }:: [Atsuro](https://osu.ppy.sh/users/2279351) y ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048). El torneo estaba restringido únicamente a países de habla hispana. Esta fue la primera edición del Coffee Hispanic Showdown y forma parte de la serie Coffee Hispanic.
 
-## Horarios del torneo
+## Calendario del torneo
 
-| Evento | Fechas |
+| Evento | Marca de tiempo |
 | --: | :-- |
 | Fase de registro | 5/7/2020 - 26/7/2020 |
-| Eliminatorias | 6/8/2020 - 9/8/2020 |
-| Octavos de Final | 15/8/2020 - 17/8/2020 |
-| Cuartos de Final | 22/8/2020 - 26/8/2020 |
+| Clasificatorias | 6/8/2020 - 9/8/2020 |
+| Octavos de final | 15/8/2020 - 17/8/2020 |
+| Cuartos de final | 22/8/2020 - 26/8/2020 |
 | Semifinales | 29/8/2020 - 31/8/2020 |
 | Finales | 4/9/2020 - 6/9/2020 |
-| Grandes Finales | 12/9/2020 - 13/9/2020 |
+| Gran final | 12/9/2020 - 13/9/2020 |
 
 ## Premios
 
-| Puestos | Premios |
+| Puesto | Premios |
 | :-: | :-- |
-| ![Corona de Oro](/wiki/shared/crown-gold.png "1er lugar") | Medalla única de perfil, banner de equipo exclusivo, banner de jugador exclusivo, un 50% de descuento en covers de tablet/mousepads para los 4 players en [Foxbox](https://foxbox.io/) |
-| ![Corona de Plata](/wiki/shared/crown-silver.png "2ndo lugar") | Banner de equipo exclusivo |
-| ![Corona de Bronce](/wiki/shared/crown-bronze.png "3er lugar") | Banner de equipo exclusivo |
+| ![Corona de oro](/wiki/shared/crown-gold.png "Primer lugar") | Insignia de perfil exclusiva, banner de equipo exclusivo, banner de jugador exclusivo, 50 % de descuento en cubiertas para tabletas y alfombrillas de ratón para los miembros del equipo en [Foxbox](https://foxbox.io/) |
+| ![Corona de plata](/wiki/shared/crown-silver.png "Segundo lugar") | Banner de equipo exclusivo |
+| ![Corona de bronce](/wiki/shared/crown-bronze.png "Tercer lugar") | Banner de equipo exclusivo |
 
-![](img/badge.jpg "Medalla para el ganador de CHS")
+![](img/badge.jpg "Insignia de ganador del CHS")
 
 ## Organización
 
-Coffee Hispanic Tournament fue realizado por varios miembros de la comunidad.
+El Coffee Hispanic Tournament fue dirigida por varios miembros de la comunidad.
 
 | Posición | Miembro(s) |
 | :-- | :-- |
-| Organizador | ::{ flag=MX }:: [Atsuro](https://osu.ppy.sh/users/2279351), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048) |
-| Selector de mapas | ::{ flag=MX }:: [Atsuro](https://osu.ppy.sh/users/2279351), ::{ flag=CN }:: [M1keL](https://osu.ppy.sh/users/10732897), ::{ flag=PT }:: [MakiDonalds](https://osu.ppy.sh/users/11610772), ::{ flag=BR }:: [niii_san](https://osu.ppy.sh/users/5403374) |
-| Arbitro | ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=US }:: [bmax](https://osu.ppy.sh/users/6672998), ::{ flag=ES }:: [Bubblegum45](https://osu.ppy.sh/users/10559526), ::{ flag=HK }:: [Cindergoat](https://osu.ppy.sh/users/10168682), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=AR }:: [Emiru Ikuno 9](https://osu.ppy.sh/users/7102463), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=RU }:: [Kolibri](https://osu.ppy.sh/users/8715808), ::{ flag=DE }:: [LwL](https://osu.ppy.sh/users/3556856), ::{ flag=PT }:: [MakiDonalds](https://osu.ppy.sh/users/11610772), ::{ flag=US }:: [Nambulance](https://osu.ppy.sh/users/13034610), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521), ::{ flag=CA }:: [Rijrya](https://osu.ppy.sh/users/11186709), ::{ flag=US }:: [ruyunata](https://osu.ppy.sh/users/8880920), ::{ flag=ES }:: [SansREPZ](https://osu.ppy.sh/users/8865297), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=CO }:: [TheAleboy](https://osu.ppy.sh/users/8921554), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=CO }:: [Vanilla Aiz](https://osu.ppy.sh/users/12261024), ::{ flag=AR }:: [Yorumi-](https://osu.ppy.sh/users/7755726) |
-| Selector de equipo | ::{ flag=BR }:: [Akane Hime](https://osu.ppy.sh/users/6772887), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [despairy](https://osu.ppy.sh/users/7339984), ::{ flag=CO }:: [ElMick33](https://osu.ppy.sh/users/5458323), ::{ flag=BR }:: [niii\_san](https://osu.ppy.sh/users/5403374) |
-| Streamer | ::{ flag=MX }:: [Atsuro](https://osu.ppy.sh/users/2279351), ::{ flag=CA }:: [Clarkyclarker](https://osu.ppy.sh/users/11664411), ::{ flag=DE }:: [im afk](https://osu.ppy.sh/users/8449331), ::{ flag=ES }:: [Moewagon](https://osu.ppy.sh/users/5764169), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048), ::{ flag=TW }:: [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Comentarista | ::{ flag=AR }:: [Gatuto](https://osu.ppy.sh/users/3583351), ::{ flag=ES }:: [Silver Falco](https://osu.ppy.sh/users/6573997), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048) |
+| Organizadores | ::{ flag=MX }:: [Atsuro](https://osu.ppy.sh/users/2279351), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048) |
+| Selectores del mappool | ::{ flag=MX }:: [Atsuro](https://osu.ppy.sh/users/2279351), ::{ flag=CN }:: [M1keL](https://osu.ppy.sh/users/10732897), ::{ flag=PT }:: [MakiDonalds](https://osu.ppy.sh/users/11610772), ::{ flag=BR }:: [niii_san](https://osu.ppy.sh/users/5403374) |
+| Árbitros | ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=US }:: [bmax](https://osu.ppy.sh/users/6672998), ::{ flag=ES }:: [Bubblegum45](https://osu.ppy.sh/users/10559526), ::{ flag=HK }:: [Cindergoat](https://osu.ppy.sh/users/10168682), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=AR }:: [Emiru Ikuno 9](https://osu.ppy.sh/users/7102463), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=RU }:: [Kolibri](https://osu.ppy.sh/users/8715808), ::{ flag=DE }:: [LwL](https://osu.ppy.sh/users/3556856), ::{ flag=PT }:: [MakiDonalds](https://osu.ppy.sh/users/11610772), ::{ flag=US }:: [Nambulance](https://osu.ppy.sh/users/13034610), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521), ::{ flag=CA }:: [Rijrya](https://osu.ppy.sh/users/11186709), ::{ flag=US }:: [ruyunata](https://osu.ppy.sh/users/8880920), ::{ flag=ES }:: [SansREPZ](https://osu.ppy.sh/users/8865297), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=CO }:: [TheAleboy](https://osu.ppy.sh/users/8921554), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=CO }:: [Vanilla Aiz](https://osu.ppy.sh/users/12261024), ::{ flag=AR }:: [Yorumi-](https://osu.ppy.sh/users/7755726) |
+| Seleccionadores de los equipos | ::{ flag=BR }:: [Akane Hime](https://osu.ppy.sh/users/6772887), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [despairy](https://osu.ppy.sh/users/7339984), ::{ flag=CO }:: [ElMick33](https://osu.ppy.sh/users/5458323), ::{ flag=BR }:: [niii\_san](https://osu.ppy.sh/users/5403374) |
+| Streamers | ::{ flag=MX }:: [Atsuro](https://osu.ppy.sh/users/2279351), ::{ flag=CA }:: [Clarkyclarker](https://osu.ppy.sh/users/11664411), ::{ flag=DE }:: [im afk](https://osu.ppy.sh/users/8449331), ::{ flag=ES }:: [Moewagon](https://osu.ppy.sh/users/5764169), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048), ::{ flag=TW }:: [XzCraftP](https://osu.ppy.sh/users/1593180) |
+| Comentaristas | ::{ flag=AR }:: [Gatuto](https://osu.ppy.sh/users/3583351), ::{ flag=ES }:: [Silver Falco](https://osu.ppy.sh/users/6573997), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048) |
 | Diseñador | ::{ flag=RU }:: [DrakonLong](https://osu.ppy.sh/users/4411044) |
-| Reclutador | ::{ flag=CO }:: [ElMick33](https://osu.ppy.sh/users/5458323), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=SV }:: [Loarca](https://osu.ppy.sh/users/4650246) |
-| Estadístico | ::{ flag=QA }:: [Rimumu](https://osu.ppy.sh/users/5823005), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048) |
-| Editor de wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Reclutadores | ::{ flag=CO }:: [ElMick33](https://osu.ppy.sh/users/5458323), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=SV }:: [Loarca](https://osu.ppy.sh/users/4650246) |
+| Estadísticos | ::{ flag=QA }:: [Rimumu](https://osu.ppy.sh/users/5823005), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048) |
+| Editor de la wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Enlaces
 
-- [Foro de discusión](https://osu.ppy.sh/community/forums/topics/1100670)
-- [CHS servidor de Discord](https://discord.gg/baVKCzU)
-- [Livestream](https://www.twitch.tv/coffeehispanic)
-- [Challonge brackets](https://challonge.com/es/CoffeeHispanicShowdown)
+- [Hilo de discusión](https://osu.ppy.sh/community/forums/topics/1100670)
+- [Servidor de Discord CHS](https://discord.gg/baVKCzU)
+- [Transmisión en directo](https://www.twitch.tv/coffeehispanic)
+- [Brackets de Challonge](https://challonge.com/es/CoffeeHispanicShowdown)
 - [Sitio web de predicciones Pick'em](https://pickem.hwc.hr/tournaments/39)
-- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1wEr5HhIWiaftd3-9GHJnzFN-0JESClEVPMWl3GQWEUw/edit?usp=sharing)**
+- **[Hoja de estadísticas](https://docs.google.com/spreadsheets/d/1wEr5HhIWiaftd3-9GHJnzFN-0JESClEVPMWl3GQWEUw/edit?usp=sharing)**
 
 ## Participantes
 
@@ -81,19 +81,19 @@ Coffee Hispanic Tournament fue realizado por varios miembros de la comunidad.
 
 ## Podio
 
-Este competencia ha llegado a su fin y los resultados se demuestran en ese podio:
+Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
-| Lugar | Equipo |
+| Puesto | Equipo |
 | :-: | :-- |
-| ![Corona de oro](/wiki/shared/crown-gold.png "1er lugar") | **yotambien** (::{ flag=ES }:: **[A N T O N I O](https://osu.ppy.sh/users/12760743)**, ::{ flag=ES }:: [Kalal331](https://osu.ppy.sh/users/8433636), ::{ flag=ES }:: [Moewagon](https://osu.ppy.sh/users/5764169), ::{ flag=CO }:: [Rushy](https://osu.ppy.sh/users/5281857)) |
-| ![Corona de plata](/wiki/shared/crown-silver.png "2do lugar") | **carlos** (::{ flag=AR }:: **[xci](https://osu.ppy.sh/users/8822528)**, ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=AR }:: [Shig](https://osu.ppy.sh/users/6117281), ::{ flag=MX }:: [Siros](https://osu.ppy.sh/users/3787685)) |
-| ![Corona de bronce](/wiki/shared/crown-bronze.png "3er lugar") | **catJAM** (::{ flag=AR }:: **[Penguo](https://osu.ppy.sh/users/4389490)**, ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=CL }:: [Kuromiau](https://osu.ppy.sh/users/2347281), ::{ flag=CL }:: [Yutunx](https://osu.ppy.sh/users/9467755)) |
+| ![Corona de oro](/wiki/shared/crown-gold.png "Primer lugar") | **yotambien** (::{ flag=ES }:: **[A N T O N I O](https://osu.ppy.sh/users/12760743)**, ::{ flag=ES }:: [Kalal331](https://osu.ppy.sh/users/8433636), ::{ flag=ES }:: [Moewagon](https://osu.ppy.sh/users/5764169), ::{ flag=CO }:: [Rushy](https://osu.ppy.sh/users/5281857)) |
+| ![Corona de plata](/wiki/shared/crown-silver.png "Segundo lugar") | **carlos** (::{ flag=AR }:: **[xci](https://osu.ppy.sh/users/8822528)**, ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=AR }:: [Shig](https://osu.ppy.sh/users/6117281), ::{ flag=MX }:: [Siros](https://osu.ppy.sh/users/3787685)) |
+| ![Corona de bronce](/wiki/shared/crown-bronze.png "Tercer lugar") | **catJAM** (::{ flag=AR }:: **[Penguo](https://osu.ppy.sh/users/4389490)**, ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=CL }:: [Kuromiau](https://osu.ppy.sh/users/2347281), ::{ flag=CL }:: [Yutunx](https://osu.ppy.sh/users/9467755)) |
 
 ## Mappools
 
-### Grandes Finales
+### Gran final
 
-**[Descarga el paquete de mapas aquí! (177 MB)](https://drive.google.com/file/d/1wcqGYC0uPnrlvoh2Xd2ax0BmZzxT2k4R/view)**
+**[Descarga el paquete de mapas aquí! (177 MB)](https://drive.google.com/file/d/1wcqGYC0uPnrlvoh2Xd2ax0BmZzxT2k4R/view)**
 
 - NoMod
   1. [PassCode - Ray (SkyFlame) \[Resonance\]](https://osu.ppy.sh/beatmapsets/1180927#osu/2462350)
@@ -119,14 +119,14 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
   1. [umu. - humanly (Luscent) \[Expert\]](https://osu.ppy.sh/beatmapsets/1045518#osu/2185651)
   2. [SWAN K feat. Asuka M - LOVE B.B.B (\[ Couch \] Lite) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/1100957#osu/2433110)
   3. [Feryquitous feat. Aitsuki Nakuru - Kairikou (Ryuusei Aika) \[Skystar's Irregular\]](https://osu.ppy.sh/beatmapsets/740862#osu/1723257)
-- Tiebreaker
+- Desempate
   1. **[Unlucky Morpheus - Angreifer (Scarsnic) \[Zeitlos\]](https://osu.ppy.sh/beatmapsets/581468#osu/1230741)**
   2. **[Camellia - LET'S JUMP (Camellia's "diffractive" Hardcore Remix) (Moko) \[Isomorphic Substitution\]](https://osu.ppy.sh/beatmapsets/1052797#osu/2326935)**
   3. **[GET IN THE RING - Midnight Syndrome (Atalanta) \[Desire\]](https://osu.ppy.sh/beatmapsets/862929#osu/1886627)**
 
 ### Finales
 
-**[Descarga el paquete de mapas aquí! (156 MB)](https://drive.google.com/file/d/1g847SBMY7dh1rO1PD4cGzIWu_8ymbunN/view)**
+**[Descarga el paquete de mapas aquí! (156 MB)](https://drive.google.com/file/d/1g847SBMY7dh1rO1PD4cGzIWu_8ymbunN/view)**
 
 - NoMod
   1. [Twin-Tails - Twintail Dreamer! (Minorsonek) \[diuS' Expert\]](https://osu.ppy.sh/beatmapsets/773026#osu/1680262)
@@ -152,7 +152,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
   1. [SHO - Plain Asia \~ Guardian of the Village (Kite) \[Insane\]](https://osu.ppy.sh/beatmapsets/26071#osu/88176)
   2. [paraoka - boot (rickyboi) \[Shoe\]](https://osu.ppy.sh/beatmapsets/50131#osu/154226)
   3. [Camellia - Introduction - ENTRANS OF DA JUNGLE (-PC) \[Welcome to the Jungle\]](https://osu.ppy.sh/beatmapsets/700968#osu/1483766)
-- Tiebreaker
+- Desempate
   1. **[Oreore-Usagi - Reset My Refrain (captin1) \[Reset\]](https://osu.ppy.sh/beatmapsets/485103#osu/1034570)**
   2. **[Demetori - Yuuga ni sakase, sumizome no sakura \~ The Harm of Coming into Existence (Keada) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1028198#osu/2149924)**
   3. **[Meramipop - Secret Desire - Dyes Remix - (Skystar) \[Irregular\]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)**
@@ -182,12 +182,12 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
   1. [Becky - Less Than Three (Ricardo Autobahn Remix) (Sonnyc) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078502#osu/2256655)
   2. [UNDEAD CORPORATION - Flowering Night Fever (Alheak) \[pishi's Lunatic\]](https://osu.ppy.sh/beatmapsets/393663#osu/895806)
   3. [FELT - New World (Hakurei Yoru) \[z1's Another\]](https://osu.ppy.sh/beatmapsets/486207#osu/1069966)
-- Tiebreaker
+- Desempate
   1. **[Dark PHOENiX - Ryokugan no Jealousy (EvilElvis) \[Monster with Green Eyes\]](https://osu.ppy.sh/beatmapsets/382455#osu/836339)**
   2. **[PSYQUI - Start Up feat. Such (dong2729) \[Start!\]](https://osu.ppy.sh/beatmapsets/838540#osu/1803623)**
   3. **[Diao Ye Zong feat. Meramipop - 'Thema of Curtain Fire Shooters' -History 3/3- (Hey lululu) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/746655#osu/1573582)**
 
-### Cuartos de Final
+### Cuartos de final
 
 - NoMod
   1. [FujuniseikouyuuP - Sayonara Lechenaultia (Kowari) \[Extra\]](https://osu.ppy.sh/beatmapsets/958924#osu/2007683)
@@ -212,14 +212,14 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
   1. [IOSYS - Danzai Yamaxanadu (Zekira) \[Eternal Damnation\]](https://osu.ppy.sh/beatmapsets/13654#osu/50354)
   2. [PUP - Mabu (Hobbes2) \[Milan-'s Expert\]](https://osu.ppy.sh/beatmapsets/762836#osu/1606045)
   3. [Getty vs. DJ DiA - Fox4-Raize- (Kaifin) \[Doorfin's Extra\]](https://osu.ppy.sh/beatmapsets/482552#osu/1097509)
-- Tiebreaker
+- Desempate
   1. **[Demetori - Seijouki no Pierrot ~ The MadPiero Laughs (jonathanlfj) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/656918#osu/1391631)**
   2. **[Camellia - Stealth-Dash (Realazy) \[Mir's Shadow\]](https://osu.ppy.sh/beatmapsets/908451#osu/1899759)**
   3. **[Spacelectro feat.Setsunan - Little Little wish (Starfy) \[Desire\]](https://osu.ppy.sh/beatmapsets/528824#osu/1121510)**
 
-### Octavos de Final
+### Octavos de final
 
-**[Descarga el paquete de mapas aquí! (107 MB)](https://www.mediafire.com/file/ylbcsstmlh8uemm/RO16.rar/file)**
+**[Descarga el paquete de mapas aquí! (107 MB)](https://www.mediafire.com/file/ylbcsstmlh8uemm/RO16.rar/file)**
 
 - NoMod
   1. [LiSA - Jet Rocket (Wen) \[Rocketing Love\]](https://osu.ppy.sh/beatmapsets/1189927#osu/2479386)
@@ -240,14 +240,14 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 - FreeMod
   1. [IOSYS - Kyuukyoku Yakiniku Restaurant! Orin no Jigokutei! (DJPop) \[Insane\]](https://osu.ppy.sh/beatmapsets/7316#osu/31620)
   2. [Rita - Dream Walker (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/beatmapsets/315299#osu/722934)
-- Tiebreaker
+- Desempate
   1. **[Yousei Teikoku - Kokou no Sousei (Kalibe) \[Despair\]](https://osu.ppy.sh/beatmapsets/744554#osu/1569836)**
   2. **[Demetori - Necrofantasia \~ Remix (tokiko) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/754985#osu/1589320)**
   3. **[Diao ye zong feat. Meramipop - The Anonymous (Asaiga) \[Neraidaphobia\]](https://osu.ppy.sh/beatmapsets/543660#osu/1283136)**
 
-### Eliminatorias
+### Clasificatorias
 
-**[Descarga el paquete de mapas aquí! (71 MB)](http://www.mediafire.com/file/ymmc53rkwsjz65t/Eliminatorias_Pool.rar/file)**
+**[Descarga el paquete de mapas aquí! (71 MB)](http://www.mediafire.com/file/ymmc53rkwsjz65t/Eliminatorias_Pool.rar/file)**
 
 - NoMod
   1. [nano - DREAMCATCHER (Depths) \[Destiny\]](https://osu.ppy.sh/beatmapsets/802148#osu/1683581)
@@ -264,123 +264,123 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
   1. [yanaginagi - landscape (\[Vincent\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/244001#osu/563370)
   2. [Skrillex - Imma Try It Out (feat. Alvin Risk) (Foreverends) \[Endsane\]](https://osu.ppy.sh/beatmapsets/76662#osu/234818)
 
-## Match results
+## Resultados de los partidos
 
-### Grand Finals
+### Gran final
 
-Sábado, 12 Septiembre 2020:
+Sábado, 12 de septiembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | catJAM | 6 | **7** | **carlos** | [#1](https://osu.ppy.sh/community/matches/66861608) |
 
-Domingo, 13 Septiembre 2020:
+Domingo, 13 de septiembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | **yotambien** | **7** | 5 | carlos | [#1](https://osu.ppy.sh/community/matches/66905996) |
 
-### Finals
+### Finales
 
-Viernes, 4 Septiembre 2020:
+Friday, 4 de septiembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | Return to Monke | 2 | **7** | **Madozito tourney** | [#1](https://osu.ppy.sh/community/matches/66467313) |
 
-Sábado, 5 Septiembre 2020:
+Sábado, 5 de septiembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | catJAM | 5 | **7** | **yotambien** | [#1](https://osu.ppy.sh/community/matches/66517231) |
 | Paltacate | 5 | **7** | **carlos** | [#1](https://osu.ppy.sh/community/matches/66531467) |
 
-Domingo, 6 Septiembre 2020:
+Domingo, 6 de septiembre de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | **carlos** | **7** | 4 | Madozito tourney | [#1](https://osu.ppy.sh/community/matches/66569336) |
 
-### Semifinals
+### Semifinales
 
-Sábado, 29 Agosto 2020:
+Sábado, 29 de agosto de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | Hoshizada | 2 | **6** | **Team 1 roto** | [#1](https://osu.ppy.sh/community/matches/66143856), [#2](https://osu.ppy.sh/community/matches/66145703) |
 | 163 braces | 0 | **6** | **eri gey?** | [#1](https://osu.ppy.sh/community/matches/66182411) |
 | VIDAL | 2 | **6** | **carlos** | [#1](https://osu.ppy.sh/community/matches/66184767) |
 | :wheelchair | 4 | **6** | **Madozito tourney** | [#1](https://osu.ppy.sh/community/matches/66187470) |
 
-Domingo, 30 Agosto 2020:
+Domingo, 30 de agosto de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | Return to Monke | 3 | **6** | **yotambien** | [#1](https://osu.ppy.sh/community/matches/66227077) |
 | **Madozito tourney** | **6** | 2 | eri gey? | [#1](https://osu.ppy.sh/community/matches/66231123) |
 | Paltacate | 1 | **6** | **catJAM** | [#1](https://osu.ppy.sh/community/matches/66235301) |
 
-Lunes, 31 Agosto 2020:
+Lunes, 31 de agosto de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | **carlos** | **6** | 3 | Team 1 roto | [#1](https://osu.ppy.sh/community/matches/66250985) |
 
-### Quarterfinals
+### Cuartos de final
 
-Sábado, 22 Agosto 2020:
+Sábado, 22 de agosto de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | Almohada | 1 | **6** | **Madozito tourney** | [#1](https://osu.ppy.sh/community/matches/65811316) |
 | :wheelchair: | 1 | **6** | **catJAM** | [#1](https://osu.ppy.sh/community/matches/65813684) |
 | **carlos** | **6** | 2 | Fish Eaters | [#1](https://osu.ppy.sh/community/matches/65813693) |
 
-Domingo, 23 Agosto 2020:
+Domingo, 23 de agosto de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Team 1 roto** | **6** | 5 | Discipulos de shrek | [#1](https://osu.ppy.sh/community/matches/65822847) |
 | 163 braces | 5 | **6** | **Paltacate** | [#1](https://osu.ppy.sh/community/matches/65822978) |
 | **Return to Monke** | **6** | 4 | Hoshizada | [#1](https://osu.ppy.sh/community/matches/65851824) |
 | VIDAL | 1 | **6** | **yotambien** | [#1](https://osu.ppy.sh/community/matches/65854682) |
 
-Miércoles, 26 Agosto 2020:
+Wednesday, 26 de agosto de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | Ign be gone | 3 | **6** | **eri gey?** | [#1](https://osu.ppy.sh/community/matches/66028383) |
 
-### Round of 16
+### Octavos de final
 
-Sábado, 15 Agosto 2020:
+Sábado, 15 de agosto de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | **163 braces** | **5** | 4 | carlos | [#1](https://osu.ppy.sh/community/matches/65441516) |
 | Ign be gone | 3 | **5** | **VIDAL** | [#1](https://osu.ppy.sh/community/matches/65472750) |
 | eri gey? | 2 | **5** | **yotambien** | [#1](https://osu.ppy.sh/community/matches/65475095) |
 | **Paltacate** | **5** | 1 | Fish Eaters | [#1](https://osu.ppy.sh/community/matches/65480091) |
 
-Domingo, 16 Agosto 2020:
+Domingo, 16 de agosto de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | **Return to Monke** | **5** | 0 | Almohada | [#1](https://osu.ppy.sh/community/matches/65514305) |
 | Madozito tourney | 0 | **5** | **Hoshizada** | [#1](https://osu.ppy.sh/community/matches/65518962) |
 | **catJAM** | **5** | 3 | Discipulos de shrek | [#1](https://osu.ppy.sh/community/matches/65525428) |
 
-Lunes, 17 Agosto 2020:
+Lunes, 17 de agosto de 2020:
 
-| Equipo 1 |  |  | Equipo 2 | Link del match |
+| Equipo 1 |  |  | Equipo 2 | Enlace al partido |
 | --: | :-: | :-: | :-- | :-- |
 | Team 1 roto | 0 | **5** | **:wheelchair:** | [#1](https://osu.ppy.sh/community/matches/65569134) |
 
-### Eliminatorias
+### Clasificatorias
 
-#### Tier 1
+#### Nivel 1
 
-| Seed | Equipo | Total de puntos |
+| Semilla | Equipo | Puntos totales |
 | --: | :-- | --: |
 | #1 | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=AR }:: [Penguo](https://osu.ppy.sh/users/4389490) | 23 |
 | #2 | ::{ flag=US }:: [AbrahamR](https://osu.ppy.sh/users/4797389), ::{ flag=CO }:: [GaaL](https://osu.ppy.sh/users/2374950) | 83 |
@@ -414,9 +414,9 @@ Lunes, 17 Agosto 2020:
 | #30 | ::{ flag=CL }:: [\[- J u l i e -\]](https://osu.ppy.sh/users/12211248), ::{ flag=CL }:: [-Mirai-](https://osu.ppy.sh/users/9850011) | 279 |
 | #31 | ::{ flag=AR }:: [Pein](https://osu.ppy.sh/users/2212941), ::{ flag=AR }:: [Cata](https://osu.ppy.sh/users/5958063) | DQ |
 
-#### Tier 2
+#### Nivel 2
 
-| Seed | Equipo | Total de puntos |
+| Semilla | Equipo | Puntos totales |
 | --: | :-- | --: |
 | #1 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743), ::{ flag=ES }:: [Moewagon](https://osu.ppy.sh/users/5764169) | 54 |
 | #2 | ::{ flag=ES }:: [AitorAmu](https://osu.ppy.sh/users/7781304), ::{ flag=CL }:: [ign](https://osu.ppy.sh/users/9360528) | 62 |
@@ -460,11 +460,11 @@ Lunes, 17 Agosto 2020:
 | #40 | ::{ flag=ES }:: [Karma](https://osu.ppy.sh/users/7196989), ::{ flag=ES }:: [NotHans](https://osu.ppy.sh/users/9551773) | DQ |
 | #41 | ::{ flag=ES }:: [-AmHappy-](https://osu.ppy.sh/users/13955752), ::{ flag=PE }:: [Othi-Chan](https://osu.ppy.sh/users/10302938) | DQ |
 
-- Solo los 16 primeros de cada tier pueden formar un equipo de 4 y pasar a la fase eliminatoria
-  - El equipo que se forme será escogido por el [seleccionador del equipo](#organización)
-- Los resultados mas detallados de las qualifiers se pueden acceder en la [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
-- El total de puntos se determina por `la posición Σ ganada al jugar el mappool de clasificaciones (en cada tier)`, cuanto más baja sea la puntuación mejor
-- Nota: La seed #6 del tier 1 fue descalificada, así que la seed #17 irá y formará el equipo en su lugar.
+- Solo los 16 mejores de cada nivel podrán formar un equipo de 4 y pasar a la fase clasificatoria
+  - La formación del equipo sería elegido por los [seleccionadores de los equipos](#organización)
+- Se puede acceder a los resultados más detallados de la clasificación a través de esta [hoja de cálculo](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
+- Los puntos totales se determinaron por `la posición Σ obtenida al jugar el mappool de las clasificatorias (en cada nivel)`, cuanto menor sea la puntuación mejor
+- Nota: La semilla #6 del nivel 1 fue descalificada, por lo que la semilla #17 formará el equipo en su lugar
 
 ## Reglas
 
