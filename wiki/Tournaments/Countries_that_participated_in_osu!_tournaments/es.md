@@ -322,9 +322,9 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
 
-[GCrown]: /wiki/shared/crown-gold.png "1er lugar"
-[SCrown]: /wiki/shared/crown-silver.png "2do lugar"
-[BCrown]: /wiki/shared/crown-bronze.png "3er lugar"
+[GCrown]: /wiki/shared/crown-gold.png "Primer lugar"
+[SCrown]: /wiki/shared/crown-silver.png "Segundo lugar"
+[BCrown]: /wiki/shared/crown-bronze.png "Tercer lugar"
 
 [true]: /wiki/shared/true.png "Asistió"
 [false]: /wiki/shared/false.png "No asistió"
